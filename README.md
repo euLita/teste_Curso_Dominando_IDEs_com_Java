@@ -1,2 +1,1 @@
-Aqui foi meu primeiro contato com a liguagem Java e algumas de suas IDEs, na ocasião participava de um Bootcamp promovido pela Dio.me
--
+_Here was my first encounter with the Java language and some of its IDEs. At the time, I was participating in a Bootcamp promoted by Dio.me_
